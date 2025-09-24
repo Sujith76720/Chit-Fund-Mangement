@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Chit-Fund-Mangement
+A Chit Fund Management System to automate member contributions, auctions, and payouts. Features include member management, secure payment tracking, auction scheduling, and dashboards with reports. Built with HTML, CSS, JS, Bootstrap, PHP/MySQL, ensuring transparency, efficiency, and easy fund management.
+>>>>>>> 0e3720a1f8c9b66e554fdad4351faaa027d3f3f9
